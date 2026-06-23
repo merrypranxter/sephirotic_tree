@@ -1,0 +1,19 @@
+{
+  "name": "sephirotic_tree",
+  "type": "CURVE_PLOTTER",
+  "title": "Sephirotic Tree \u2014 10 Spheres, 22 Paths",
+  "brief": "Kabbalistic Tree of Life rendered as luminous network graph. 10 sephirot (divine emanations) connected by 22 paths. Flashing colors, planetary correspondences, Hebrew letter paths. Energy flows along connections as animated curves.",
+  "inputs": [
+    "u_source"
+  ],
+  "outputs": [
+    "plotted_curve"
+  ],
+  "tags": [
+    "generator",
+    "sephirotic-tree"
+  ],
+  "adjacency": [],
+  "status": "seed",
+  "batch": "D"
+}
