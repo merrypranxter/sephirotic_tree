@@ -1,0 +1,24 @@
+# sephirotic_tree
+
+> 10 sephirot. 22 paths. the tree of life as a luminous network of divine emanation. each sphere has a color, a planet, a number. the paths are the hebrew letters. energy flows along connections.
+
+**Archetype:** CURVE_PLOTTER. **Distinct from** `strange_attractors` (not chaotic) and `space_filling_curves` (not space-filling).
+
+## Adjacency
+- `strange_attractors` — chaos energy as divine emanation metaphor
+- `fourier_visual_synthesis` — harmonic relationships between sephirot
+- `knot_theory` — path intersections and topology
+
+## Visual Targets
+- 3-column tree layout: Kether at top, Malkuth at bottom
+- Sephira as glowing orbs with planetary glyphs
+- 22 paths as animated energy curves (bezier or catmull-rom)
+- Flashing colors: sephirot flash between king/queen scale colors
+- Lightning flash: zigzag path from Kether to Malkuth
+- Serpent path: back-and-forth serpentine route through tree
+
+## Technical Notes
+- Standard layout coordinates (GD Kabbalah tradition)
+- Path data: 22 connections between specific sephira pairs
+- Flashing color pairs: king scale ↔ queen scale ↔ emperor scale
+- Planetary correspondence: each sephira maps to a classical planet
